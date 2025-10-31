@@ -1,1 +1,1 @@
-# Barber
+Random quote Generator
