@@ -1,1 +1,1 @@
-Random quote Generator
+Website for a barber shop
